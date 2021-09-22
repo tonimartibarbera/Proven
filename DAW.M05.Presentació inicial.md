@@ -8,17 +8,17 @@
 
 | Unitat Formativa | Hores |
 | - |:-:|
-| UF1. Desenvolupament de programari | 10h |
-| UF3. Introducció al disseny orientat a objectes | 13h |
-| UF2. Optimització de programari | 10h |
+| UF1. Desenvolupament de programari | 20h |
+| UF3. Introducció al disseny orientat a objectes | 26h |
+| UF2. Optimització de programari | 20h |
 
 ---
 
-## M05. UF1. Desenvolupament de programari (10h)
+## M05. UF1. Desenvolupament de programari (20h)
 
 | Nucli Formatiu | Hores |
 | - |:-:|
-| NF1. Cicles de vida, metodologies i IDEs | 10h |
+| NF1. Cicles de vida, metodologies i IDEs | 20h |
 
 --
 
@@ -30,11 +30,11 @@
 
 ---
 
-## M05. UF3. Introducció al disseny orientat a objectes (13h)
+## M05. UF3. Introducció al disseny orientat a objectes (26h)
 | Nucli Formatiu | Hores |
 | - |:-:|
-| NF1. Introducció als diagrames de classes | 7h |
-| NF2. Introducció als diagrames de comportament | 6h |
+| NF1. Introducció als diagrames de classes | 16h |
+| NF2. Introducció als diagrames de comportament | 10h |
 
 --
 
@@ -46,11 +46,13 @@
 
 ---
 
-## M05. UF2. Optimització de programari (10h)
+## M05. UF2. Optimització de programari (20h)
 
 | Nucli Formatiu | Hores |
 | - |:-:|
-| NF1. Optimització de programari | 10h |
+| NF1. Disseny i realització de proves | 12h |
+| NF2. Documentació i optimització | 8h |
+
 
 --
 
@@ -76,4 +78,4 @@
 
 Nota Final Mòdul =
 
-`$$ \frac{10·Q_{UF1} + 10·Q_{UF2} + 13·Q_{UF3}}{33} $$`
+`$$ \frac{30·Q_{UF1} + 30·Q_{UF2} + 40·Q_{UF3}}{33} $$`
