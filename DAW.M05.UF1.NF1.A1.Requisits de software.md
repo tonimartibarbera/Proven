@@ -1,8 +1,8 @@
 <!-- .slide: class="intro" -->
 # M05.UF1.NF1.A1
 # Requisits de software 
-### CFGS DAW-BIO
-<small>Pedro Durán / <pduran5@xtec.cat></small>
+### CFGS DAM
+<small>Toni Martí / <amart171@xtec.cat></small>
 
 ---
 
