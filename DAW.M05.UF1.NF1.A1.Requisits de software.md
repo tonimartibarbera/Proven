@@ -1,7 +1,7 @@
 <!-- .slide: class="intro" -->
 # M05.UF1.NF1.A1
 # Requisits de software 
-### CFGS DAM
+### CFGS DAM i DAW
 <small>Toni Martí / <amart171@xtec.cat></small>
 
 ---
