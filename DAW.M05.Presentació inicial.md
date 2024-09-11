@@ -14,7 +14,7 @@
 
 ---
 
-## 04875. A1. Desenvolupament de programari (20h)
+## 0487. A1. Desenvolupament de programari (20h)
 
 | Activitat 1 | Hores |
 | - |:-:|
