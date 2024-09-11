@@ -82,4 +82,4 @@ Qualificació Mòdul a l'aula (QMP_aula) =
 
 Nota Final Mòdul =
 
-`$$ 90·QMP_aula + 10·QMP_estada_a_l'empresa$$`
+`$$ 90·QMP_aula + 10·QMP_estada_a_l'empresa $$`
