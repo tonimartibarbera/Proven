@@ -76,10 +76,10 @@
 
 ## 0487. Entorns de Desenvolupament
 
-Qualificació Mòdul a l'aula (QMP aula)=
+Qualificació Mòdul a l'aula (QMP aula) =
 
 `$$ \frac{10·Q_{RA1} + 10·Q_{RA2} + 14·Q_{RA3} + 6·Q_{RA4} + 14·Q_{RA5} + 12·Q_{RA6}}{66} $$`
 
-Nota Final Mòdul=
+Nota Final Mòdul =
 
-`$$ 90·QMP aula + 10·QMP estada a l'empresa$$`
+`$$ 90·QMP_aula + 10·QMP_estada_a_l'empresa$$`
